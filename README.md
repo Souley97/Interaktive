@@ -19,6 +19,7 @@ Chaque champ est validé progressivement avec JavaScript et une vérification su
 
 2. Page de Connexion
 La page de connexion permet aux utilisateurs de se connecter en saisissant leur adresse email et leur mot de passe. La page est conçue pour être responsive et s'adapte à différents écrans grâce à Bootstrap.
+h
 
 
 
